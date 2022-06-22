@@ -4,3 +4,4 @@ packages:
     - 'examples/macro'
     - 'examples/npm_deps'
     - 'npm/private/test'
+    - 'js/private/coverage/bundle'

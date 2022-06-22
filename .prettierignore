@@ -2,3 +2,4 @@ docs/
 min/
 **/pnpm-lock.yaml
 js/private/node-patches/fs.js
+js/private/coverage/coverage.js
